@@ -130,12 +130,10 @@ function App() {
           </article>
 
           <div className="card-stack" aria-hidden="true">
-            <div className="glow glow-one" />
-            <div className="glow glow-two" />
             <img
-              className="discover-stack-img"
-              src="https://www.discover.com/content/discover/en/_jcr_content/root/responsivegrid/colctrlcomp_159898971/par_1/image.coreimg.png/1687279275955/card-array-d.png"
-              alt="Discover card lineup"
+              className="discover-stack-media"
+              src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-student-it-choose-new-your-card-614-432.png"
+              alt="Discover Student Card"
             />
           </div>
         </div>
